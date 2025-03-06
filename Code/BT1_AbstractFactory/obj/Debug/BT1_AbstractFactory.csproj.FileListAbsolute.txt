@@ -1,0 +1,7 @@
+D:\BT1_AbstractFactory\obj\Debug\BT1_AbstractFactory.csproj.AssemblyReference.cache
+D:\BT1_AbstractFactory\obj\Debug\BT1_AbstractFactory.csproj.CoreCompileInputs.cache
+D:\BT1_AbstractFactory\bin\Debug\BT1_AbstractFactory.exe.config
+D:\BT1_AbstractFactory\bin\Debug\BT1_AbstractFactory.exe
+D:\BT1_AbstractFactory\bin\Debug\BT1_AbstractFactory.pdb
+D:\BT1_AbstractFactory\obj\Debug\BT1_AbstractFactory.exe
+D:\BT1_AbstractFactory\obj\Debug\BT1_AbstractFactory.pdb
