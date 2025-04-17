@@ -35,7 +35,7 @@ public class Main {
         // Truck Iterator (only trucks with capacity >= 10)
         System.out.println("\nUsing TruckIterator (only trucks with capacity >= 10):");
         VehicleIterator truckIterator = trafficManager.getTruckCollection().createIterator();
-        while (truckIterator.hasNext()) {
+        while (truckIterator.hasNext()) {Z
             Vehicle truck = truckIterator.next();
             System.out.println("Truck: " + truck.getLicensePlate() + " - Capacity: " + truck.getCapacity());
         }
